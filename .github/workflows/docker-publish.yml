@@ -14,7 +14,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: pandoc-wkhtmltopdf
+  IMAGE_NAME: pandoc
 
 jobs:
   # Run tests.
